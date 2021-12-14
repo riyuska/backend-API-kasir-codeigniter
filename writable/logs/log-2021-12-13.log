@@ -1,0 +1,70 @@
+CRITICAL - 2021-12-13 20:21:43 --> Invalid file: layouttemplate.php
+#0 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouttemplate....')
+#1 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/Common.php(1097): CodeIgniter\View\View->render('layouttemplate', Array, true)
+#2 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/app/Config/Routes.php(37): view('layouttemplate')
+#3 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/CodeIgniter.php(780): CodeIgniter\CodeIgniter->Config\{closure}()
+#4 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#5 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/Commands/Server/rewrite.php(43): require_once('/Applications/X...')
+#8 {main}
+CRITICAL - 2021-12-13 20:21:52 --> Invalid file: layouttemplate.php
+#0 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouttemplate....')
+#1 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/Common.php(1097): CodeIgniter\View\View->render('layouttemplate', Array, true)
+#2 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/app/Config/Routes.php(37): view('layouttemplate')
+#3 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/CodeIgniter.php(780): CodeIgniter\CodeIgniter->Config\{closure}()
+#4 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#5 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/Commands/Server/rewrite.php(43): require_once('/Applications/X...')
+#8 {main}
+CRITICAL - 2021-12-13 20:22:53 --> Invalid file: layouttemplate.php
+#0 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouttemplate....')
+#1 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/Common.php(1097): CodeIgniter\View\View->render('layouttemplate', Array, true)
+#2 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/app/Config/Routes.php(37): view('layouttemplate')
+#3 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/CodeIgniter.php(780): CodeIgniter\CodeIgniter->Config\{closure}()
+#4 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#5 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/Commands/Server/rewrite.php(43): require_once('/Applications/X...')
+#8 {main}
+CRITICAL - 2021-12-13 20:23:19 --> Invalid file: layouttemplate.php
+#0 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouttemplate....')
+#1 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/Common.php(1097): CodeIgniter\View\View->render('layouttemplate', Array, true)
+#2 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/app/Config/Routes.php(37): view('layouttemplate')
+#3 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/CodeIgniter.php(780): CodeIgniter\CodeIgniter->Config\{closure}()
+#4 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#5 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/Commands/Server/rewrite.php(43): require_once('/Applications/X...')
+#8 {main}
+CRITICAL - 2021-12-13 20:23:21 --> Invalid file: layouttemplate.php
+#0 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouttemplate....')
+#1 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/Common.php(1097): CodeIgniter\View\View->render('layouttemplate', Array, true)
+#2 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/app/Config/Routes.php(37): view('layouttemplate')
+#3 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/CodeIgniter.php(780): CodeIgniter\CodeIgniter->Config\{closure}()
+#4 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#5 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/Commands/Server/rewrite.php(43): require_once('/Applications/X...')
+#8 {main}
+CRITICAL - 2021-12-13 20:23:22 --> Invalid file: layouttemplate.php
+#0 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouttemplate....')
+#1 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/Common.php(1097): CodeIgniter\View\View->render('layouttemplate', Array, true)
+#2 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/app/Config/Routes.php(37): view('layouttemplate')
+#3 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/CodeIgniter.php(780): CodeIgniter\CodeIgniter->Config\{closure}()
+#4 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#5 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/Commands/Server/rewrite.php(43): require_once('/Applications/X...')
+#8 {main}
+CRITICAL - 2021-12-13 20:23:55 --> Invalid file: layouttemplate.php
+#0 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouttemplate....')
+#1 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/Common.php(1097): CodeIgniter\View\View->render('layouttemplate', Array, true)
+#2 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/app/Config/Routes.php(37): view('layouttemplate')
+#3 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/CodeIgniter.php(780): CodeIgniter\CodeIgniter->Config\{closure}()
+#4 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#5 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 /Applications/XAMPP/xamppfiles/htdocs/PROJECT/CI/basic/system/Commands/Server/rewrite.php(43): require_once('/Applications/X...')
+#8 {main}
